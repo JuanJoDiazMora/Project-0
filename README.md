@@ -19,4 +19,4 @@ My stylesheet(s)include at least one mobile-responsive @media query in the websi
 The website about Germany use Bootstrap 4 , taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap’s grid model.
 and the stylesheets use at least one SCSS variable,and SCSS nesting, and the use of SCSS inheritance in the website.
 
-
+Thank you very much I await your response on my project and follow-up of this certification greetings from Mexico City
